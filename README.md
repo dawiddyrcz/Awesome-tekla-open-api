@@ -3,8 +3,9 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 ## Table of contents  
   [Webpages](#webpages)  
 [Example Tekla Open API codes and exercises](#Example-Tekla-Open-API-codes-and-exercises)  
-[Users which publish Tekla Open API projects on Github](#Users-which-publish-Tekla)  
-[Webpages](#webpages)  
+[Users which publish Tekla Open API projects on Github](#Users-which-publish-Tekla-Open-API-projects-on-Github-(more than-two))  
+[Open source Tekla Open API plugins and applications from Tekla Warehouse](#Open-source-Tekla-Open-API-plugins-and applications-from-Tekla-Warehouse)  
+[Interesting Tekla Open API Projects](#Interesting-Tekla-Open-API-Projects)  
 
 ### Tekla Open API materials:
 
@@ -30,7 +31,7 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 * [Filtering-tool-for-tekla-structures](https://github.com/dawiddyrcz/Filtering-tool-for-tekla-structures)  
 * [Drawing-numbering-tool-for-tekla](https://github.com/dawiddyrcz/Drawing-numbering-tool-for-tekla)  
 * [Drawing-find-replace-tool-for-tekla](https://github.com/dawiddyrcz/Drawing-find-replace-tool-for-tekla)  
- *[ts_sewatek_components](https://github.com/Vanhailkka/ts_sewatek_components)  
+* [ts_sewatek_components](https://github.com/Vanhailkka/ts_sewatek_components)  
 
 #### Interesting Tekla Open API Projects:  
 * [TeklaApplicationLibrary](https://github.com/TrimbleSolutionsCorporation/TeklaApplicationLibrary)  
