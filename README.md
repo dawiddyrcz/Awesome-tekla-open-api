@@ -33,9 +33,9 @@ Links to awesome Tekla Open API materials and repositories
 [Tekla-Structures-Snake](https://github.com/markusl/Tekla-Structures-Snake)  
 
 **Youtube:**  
+[Christopher Keyack](https://www.youtube.com/watch?v=7yQiUXfmgRA&list=PLQ9AUtytkrd7I1krJ4xaFOHoFuHuyhTJ4)  
 [Tekla Software](https://www.youtube.com/watch?v=z94cw6lS3cI)  
 [RazorCX Technologies](https://www.youtube.com/channel/UCJkrjJbNQQk3shyPwfx49YA)  
-[Christopher Keyack](https://www.youtube.com/watch?v=7yQiUXfmgRA&list=PLQ9AUtytkrd7I1krJ4xaFOHoFuHuyhTJ4) 
 [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 
 
