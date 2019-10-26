@@ -11,6 +11,7 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 - [Not Tekla but related](#Not-Tekla-but-related)  
   - [Users](#Users) 
   - [Related applications API](#Related-applications-API) 
+  - [IFC Libraries](#IFC-Libraries)  
     
 ### Tekla Open API materials:
 
@@ -50,14 +51,16 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 * [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 * [PMorshed](https://www.youtube.com/user/PMorshed/videos)  
 
-### Not Tekla but related
+### Not Tekla but related to:
 
-#### Users
+#### Users:
 * [Trimble-Connect](https://github.com/Trimble-Connect)  
 * [idea-statica](https://github.com/idea-statica)  
 
-#### Related applications API
+#### Related applications API:
 * [idea-statica-iom](https://github.com/idea-statica/iom) Idea Statica API  
 * [idea-statica-iom-examples](https://github.com/idea-statica/iom-examples) Idea Statica API examples  
 
+#### IFC Libraries:
+* [GeometryGymIFC](https://github.com/GeometryGym/GeometryGymIFC)  Parse and write IFC files using c#
 
