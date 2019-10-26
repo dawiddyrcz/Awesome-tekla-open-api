@@ -35,7 +35,7 @@ Links to awesome Tekla Open API materials and repositories
 **Youtube:**  
 [Tekla Software](https://www.youtube.com/watch?v=z94cw6lS3cI)  
 [RazorCX Technologies](https://www.youtube.com/channel/UCJkrjJbNQQk3shyPwfx49YA)  
-[Christopher Keyack](https://www.youtube.com/user/KeyKeepist/videos) 
+[Christopher Keyack](https://www.youtube.com/watch?v=7yQiUXfmgRA&list=PLQ9AUtytkrd7I1krJ4xaFOHoFuHuyhTJ4) 
 [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 
 
