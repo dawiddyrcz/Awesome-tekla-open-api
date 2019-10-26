@@ -8,7 +8,7 @@ Links to awesome Tekla Open API (not only) materials and repositories.
   - [Open source Tekla Open API plugins and applications from Tekla Warehouse](#open-source-tekla-open-api-plugins-and-applications-from-tekla-warehouse)  
   - [Interesting Tekla Open API Projects](#Interesting-Tekla-Open-API-Projects)  
   - [Youtube](#youtube)  
-- [Not Tekla but related to c# tools](#not-tekla-but-related-to)  
+- [Not Tekla but related to Tekla c# projects](#not-tekla-but-related-to-tekla-c-projects)  
   - [Users](#Users) 
   - [Related applications API](#Related-applications-API) 
   - [IFC Libraries](#IFC-Libraries)  
