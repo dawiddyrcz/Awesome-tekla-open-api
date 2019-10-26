@@ -8,7 +8,7 @@ Links to awesome Tekla Open API (not only) materials and repositories.
   - [Open source Tekla Open API plugins and applications from Tekla Warehouse](#open-source-tekla-open-api-plugins-and-applications-from-tekla-warehouse)  
   - [Interesting Tekla Open API Projects](#Interesting-Tekla-Open-API-Projects)  
   - [Youtube](#youtube)  
-- [Not Tekla but related to](#not-tekla-but-related-to)  
+- [Not Tekla but related to c# tools](#not-tekla-but-related-to)  
   - [Users](#Users) 
   - [Related applications API](#Related-applications-API) 
   - [IFC Libraries](#IFC-Libraries)  
@@ -51,7 +51,7 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 * [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 * [PMorshed](https://www.youtube.com/user/PMorshed/videos)  
 
-### Not Tekla but related to:
+### Not Tekla but related to Tekla c# projects:
 
 #### Users:
 * [Trimble-Connect](https://github.com/Trimble-Connect)  
