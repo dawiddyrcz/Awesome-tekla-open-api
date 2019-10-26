@@ -60,6 +60,7 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 #### Related applications API:
 * [idea-statica-iom](https://github.com/idea-statica/iom) Idea Statica API  
 * [idea-statica-iom-examples](https://github.com/idea-statica/iom-examples) Idea Statica API examples  
+* [Autodesk-Robot-API-Tutorial](https://forums.autodesk.com/t5/robot-structural-analysis-forum/api-tutorial/m-p/5376343#M27743)  
 
 #### IFC Libraries:
 * [GeometryGymIFC](https://github.com/GeometryGym/GeometryGymIFC)  Parse and write IFC files using c#
