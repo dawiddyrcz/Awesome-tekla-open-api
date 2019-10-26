@@ -26,13 +26,12 @@ Links to awesome Tekla Open API materials and repositories
 [ts_sewatek_components](https://github.com/Vanhailkka/ts_sewatek_components)  
 
 ### Interesting Tekla Open API Projects
-[RebarPhasesManager](https://github.com/mateuszkrzeminski/RebarPhasesManager) 
+[RebarPhasesManager](https://github.com/mateuszkrzeminski/RebarPhasesManager)  
 [Tekla-Structures-Snake](https://github.com/markusl/Tekla-Structures-Snake)  
 
-### Youtube chanels 
-[]()  
-[]()  
-[]()  
-
+### Youtube chanels  
+[Tekla Software](https://www.youtube.com/watch?v=Z5honuQZTcM&list=PLYbj2JlSfwmYNUG-n4sGJjs5xQiG1fqiz)  
+[RazorCX Technologies](https://www.youtube.com/watch?v=VMteo4eNFxs&list=PLO_paZXQy1i6mGLYXne2bMl7eePJatALh)  
+[Christopher Keyack](https://www.youtube.com/user/KeyKeepist/videos)  
 
 
