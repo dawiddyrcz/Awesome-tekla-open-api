@@ -8,7 +8,10 @@ Links to awesome Tekla Open API (not only) materials and repositories.
   - [Open source Tekla Open API plugins and applications from Tekla Warehouse](#open-source-tekla-open-api-plugins-and-applications-from-tekla-warehouse)  
   - [Interesting Tekla Open API Projects](#Interesting-Tekla-Open-API-Projects)  
   - [Youtube](#youtube)  
-
+- [Not Tekla but related](#Not-Tekla-but-related)  
+  - [Users](#Users) 
+  - [Related applications API](#Related-applications-API) 
+    
 ### Tekla Open API materials:
 
 #### Webpages:  
@@ -46,5 +49,15 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 * [RazorCX Technologies](https://www.youtube.com/channel/UCJkrjJbNQQk3shyPwfx49YA)  
 * [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 * [PMorshed](https://www.youtube.com/user/PMorshed/videos)  
+
+### Not Tekla but related
+
+#### Users
+* [Trimble-Connect](https://github.com/Trimble-Connect)  
+* [idea-statica](https://github.com/idea-statica)  
+
+#### Related applications API
+* [idea-statica-iom](https://github.com/idea-statica/iom) Idea Statica API  
+* [idea-statica-iom-examples](https://github.com/idea-statica/iom-examples) Idea Statica API examples  
 
 
