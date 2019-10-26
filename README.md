@@ -29,9 +29,10 @@ Links to awesome Tekla Open API materials and repositories
 [RebarPhasesManager](https://github.com/mateuszkrzeminski/RebarPhasesManager)  
 [Tekla-Structures-Snake](https://github.com/markusl/Tekla-Structures-Snake)  
 
-### Youtube chanels  
-[Tekla Software](https://www.youtube.com/watch?v=Z5honuQZTcM&list=PLYbj2JlSfwmYNUG-n4sGJjs5xQiG1fqiz)  
-[RazorCX Technologies](https://www.youtube.com/watch?v=fqChHP34fsw)  
-[Christopher Keyack](https://www.youtube.com/user/KeyKeepist/videos)  
+### Youtube:
+[Tekla Software](https://www.youtube.com/watch?v=z94cw6lS3cI)  
+[RazorCX Technologies](https://www.youtube.com/channel/UCJkrjJbNQQk3shyPwfx49YA)  
+[Christopher Keyack](https://www.youtube.com/user/KeyKeepist/videos) 
+[BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 
 
