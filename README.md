@@ -1,10 +1,8 @@
 Links to awesome Tekla Open API (not only) materials and repositories. 
 
 ## Table of contents  
-  [Webpages](#webpages)  
+[Webpages](#webpages)  
 [Example Tekla Open API codes and exercises](#Example-Tekla-Open-API-codes-and-exercises)  
-[Users which publish Tekla Open API projects on Github](#Users-which-publish-Tekla-Open-API-projects-on-Github-(more than-two))  
-[Open source Tekla Open API plugins and applications from Tekla Warehouse](#Open-source-Tekla-Open-API-plugins-and applications-from-Tekla-Warehouse)  
 [Interesting Tekla Open API Projects](#Interesting-Tekla-Open-API-Projects)  
 
 ### Tekla Open API materials:
