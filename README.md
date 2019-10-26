@@ -45,5 +45,6 @@ Links to awesome Tekla Open API (not only) materials and repositories.
 * [Tekla Software](https://www.youtube.com/watch?v=z94cw6lS3cI)  
 * [RazorCX Technologies](https://www.youtube.com/channel/UCJkrjJbNQQk3shyPwfx49YA)  
 * [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
+* [PMorshed](https://www.youtube.com/user/PMorshed/videos)  
 
 
