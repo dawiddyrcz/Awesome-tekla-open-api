@@ -17,6 +17,7 @@ Links to awesome Tekla Open API materials and repositories
 [teklanology](https://github.com/teklanology)  
 [dawiddyrcz](https://github.com/dawiddyrcz)  
 [brungardtdb](https://github.com/brungardtdb)  
+[HopiaEngineering](https://github.com/HopiaEngineering)  
 
 ### Open source Tekla Open API plugins and applications from Tekla Warehouse:
 [Tekla-tbp-unpack](https://github.com/dawiddyrcz/Tekla-tbp-unpack)  
@@ -26,6 +27,7 @@ Links to awesome Tekla Open API materials and repositories
 [ts_sewatek_components](https://github.com/Vanhailkka/ts_sewatek_components)  
 
 ### Interesting Tekla Open API Projects
+[TeklaApplicationLibrary](https://github.com/TrimbleSolutionsCorporation/TeklaApplicationLibrary)  
 [RebarPhasesManager](https://github.com/mateuszkrzeminski/RebarPhasesManager)  
 [Tekla-Structures-Snake](https://github.com/markusl/Tekla-Structures-Snake)  
 
