@@ -1,4 +1,4 @@
-Links to awesome Tekla Open API (not only) materials and repositories. Feel free to add your links. Make pull request. 
+Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created links to awesome Tekla Open API (not only) materials and repositories. Feel free to add your links. Make pull request. 
 
 ## Table of contents  
 - [Tekla Open API Materials](#tekla-open-api-materials)
