@@ -64,6 +64,6 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
 
 #### IFC Libraries and open source applications:
 * [GeometryGymIFC](https://github.com/GeometryGym/GeometryGymIFC)  Parse and write IFC files using c#
-* [XbimEssentials](https://github.com/xBimTeam/XbimEssentials)  
-* [XbimWindowsUI](https://github.com/xBimTeam/XbimWindowsUI)  
+* [XbimEssentials](https://github.com/xBimTeam/XbimEssentials) Parse and write IFC files using c#  
+* [XbimWindowsUI](https://github.com/xBimTeam/XbimWindowsUI) Open source IFC viewer in c#  
 
