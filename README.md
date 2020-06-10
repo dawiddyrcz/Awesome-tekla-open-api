@@ -8,6 +8,7 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
   - [Open source Tekla Open API plugins and applications from Tekla Warehouse](#open-source-tekla-open-api-plugins-and-applications-from-tekla-warehouse)  
   - [Interesting Tekla Open API Projects](#Interesting-Tekla-Open-API-Projects)  
   - [Youtube](#youtube)  
+  - [Universal, version independent Tekla Open API](#universal-and-version-independent-tekla-open-api)
 - [Not Tekla but related to Tekla c# projects](#not-tekla-but-related-to-tekla-c-projects)  
   - [Users](#Users) 
   - [Related applications API](#Related-applications-API) 
@@ -50,6 +51,9 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
 * [RazorCX Technologies](https://www.youtube.com/channel/UCJkrjJbNQQk3shyPwfx49YA)  
 * [BIMstudio](https://www.youtube.com/channel/UCFhBOxSabfPl-SFrYDJmdmQ/videos)  
 * [PMorshed](https://www.youtube.com/user/PMorshed/videos)  
+
+#### Universal and version independent Tekla Open API: ####
+* [Dynamic-Tekla-Structures-API](https://github.com/dawiddyrcz/Dynamic-Tekla-Structures-API)
 
 ### Not Tekla but related to Tekla c# projects:
 
