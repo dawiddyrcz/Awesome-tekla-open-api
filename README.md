@@ -2,6 +2,7 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
 
 ## Table of contents  
 - [Tekla Open API Materials](#tekla-open-api-materials)
+  - [Extensions](#extensions)
   - [Webpages](#webpages)  
   - [Example Tekla Open API codes and exercises](#Example-Tekla-Open-API-codes-and-exercises)  
   - [Users which publish Tekla Open API projects on Github](#users-which-publish-tekla-open-api-projects-on-github-more-than-two)  
@@ -14,7 +15,11 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
   - [Related applications API](#Related-applications-API) 
   - [IFC Libraries and open source applications](i#ifc-libraries-and-open-source-applications)  
     
+    
 ### Tekla Open API materials:
+
+#### Extensions:
+* [Tekla-Open-Api-Extension-Methods](https://github.com/dawiddyrcz/Tekla-Open-Api-Extension-Methods)
 
 #### Webpages:  
 * [Tekla Developer Center](https://developer.tekla.com/)  
