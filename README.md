@@ -25,7 +25,7 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
 * [Tekla Developer Center](https://developer.tekla.com/)  
 * [Tekla Open API StartUp Package](https://warehouse.tekla.com/#!/catalog/details/ufc61f4ac-d57e-4452-9144-1f4febe853a9)  
 * [www.tek1.com.au](https://www.tek1.com.au/tekla-open-api-resources/)
-* [Tekla Structures](https://www.ddbim.pl/) Tricks and Tips
+* [Tekla Structures Tricks and Tips](https://www.ddbim.pl/category/tekla-structures-tips-and-tricks/)
 
 #### Example Tekla Open API codes and exercises:  
 * [TSOpenAPIExamples](https://github.com/TrimbleSolutionsCorporation/TSOpenAPIExamples)  
