@@ -77,3 +77,5 @@ Inspired by [Awesome-dot-net](https://github.com/quozd/awesome-dotnet) I created
 * [XbimEssentials](https://github.com/xBimTeam/XbimEssentials) Parse and write IFC files using c#  
 * [XbimWindowsUI](https://github.com/xBimTeam/XbimWindowsUI) Open source IFC viewer in c#  
 
+#### Other:
+* [Tekla color card](https://ddbim.com/tekla-color-card/)  Cheat sheet with color codes
